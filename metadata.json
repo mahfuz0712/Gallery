@@ -1,0 +1,9 @@
+{
+  "name": "Gallery",
+  "version": "1.0.0",
+  "description": "An offline photo and video gallery with a futuristic HUD design. Timeline and albums, pinch-to-zoom viewer, favorites, slideshow, share, delete and file info.",
+  "author": "Mohammad Mahfuz Rahman",
+  "ageRating": "3+",
+  "containsAds": false,
+  "type": "app"
+}
